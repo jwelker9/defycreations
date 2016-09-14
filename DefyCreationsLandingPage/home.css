@@ -1,0 +1,102 @@
+/*html{
+  height:100%;
+  width:100%;
+}
+body{
+  height:100%;
+  width:100%;
+  margin:0px;
+}*/
+
+
+#background-image{
+    height:100%;
+    width: 100%;
+    background-size:cover;
+    background-repeat: no-repeat;
+    position:absolute;
+}
+
+#top-box{
+  width:100%;
+  height:7%;
+  background-color:black;
+  position:absolute;
+  text-align: center;
+  z-index:100;
+  opacity:.7;
+}
+
+#bottom-box{
+  width:100%;
+  height:7%;
+  background-color:black;
+  position:absolute;
+  z-index:100;
+  opacity:.7;
+  bottom:133px;
+  text-align:center;
+}
+
+.image-text{
+  color:white;
+  line-height: 50px;
+}
+
+#text-box{
+  height:20%;
+  width:100%;
+  background-color: white;
+  position:absolute;
+  bottom: 0px;
+  text-align: center;
+}
+#center-text{
+  margin-top:1em;
+  text-align: center;
+}
+#submit-button{
+  width:100px;
+  display:inline;
+  margin:auto;
+}
+#email-input{
+  width:200px;
+  display:inline;
+  text-align: center;
+}
+
+#defy-logo{
+  margin: 0 auto ;
+}
+
+
+/*#center-text{
+  position:absolute;
+  text-align:center;
+  bottom: 69px;
+  right:618px;
+}
+#submit-button{
+  position:absolute;
+  right:490px;
+  bottom:30px;
+  width: 100px;
+}
+
+#email-input{
+  position:absolute;
+  width:200px;
+  text-align:center;
+  right: 600px;
+  bottom:30px;
+}
+
+#defy-logo{
+  height:100px;
+  width:100px;
+  background-color: gray;
+  position:absolute;
+  left: 100px;
+  bottom:16px;
+}*/
